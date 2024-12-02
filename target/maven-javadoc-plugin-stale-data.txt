@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/rizal/OneDrive/Documents/Kuliah/Semester 3/PRAKTEK Pemrograman Berorientasi Objek/Minggu 10/SuitElemen/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/rizal/OneDrive/Documents/Kuliah/Semester 3/PRAKTEK Pemrograman Berorientasi Objek/Minggu 10/SuitElemen/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SuitElemen 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'SuitElemen 1.0-SNAPSHOT API'
+SuitElemenGame
+C:\Users\rizal\OneDrive\Documents\Kuliah\Semester 3\PRAKTEK Pemrograman Berorientasi Objek\Minggu 10\SuitElemen\src\main\java = 1731679414764
+C:\Users\rizal\OneDrive\Documents\Kuliah\Semester 3\PRAKTEK Pemrograman Berorientasi Objek\Minggu 10\SuitElemen\target\reports\apidocs\allclasses-index.html = 1733133165501
+C:\Users\rizal\OneDrive\Documents\Kuliah\Semester 3\PRAKTEK Pemrograman Berorientasi Objek\Minggu 10\SuitElemen\target\reports\apidocs\allpackages-index.html = 1733133165503
+C:\Users\rizal\OneDrive\Documents\Kuliah\Semester 3\PRAKTEK Pemrograman Berorientasi Objek\Minggu 10\SuitElemen\target\reports\apidocs\element-list = 1733133165373
+C:\Users\rizal\OneDrive\Documents\Kuliah\Semester 3\PRAKTEK Pemrograman Berorientasi Objek\Minggu 10\SuitElemen\target\reports\apidocs\help-doc.html = 1733133165538
+C:\Users\rizal\OneDrive\Documents\Kuliah\Semester 3\PRAKTEK Pemrograman Berorientasi Objek\Minggu 10\SuitElemen\target\reports\apidocs\index-all.html = 1733133165529
+C:\Users\rizal\OneDrive\Documents\Kuliah\Semester 3\PRAKTEK Pemrograman Berorientasi Objek\Minggu 10\SuitElemen\target\reports\apidocs\index.html = 1733133165534
+C:\Users\rizal\OneDrive\Documents\Kuliah\Semester 3\PRAKTEK Pemrograman Berorientasi Objek\Minggu 10\SuitElemen\target\reports\apidocs\member-search-index.js = 1733133165511
+C:\Users\rizal\OneDrive\Documents\Kuliah\Semester 3\PRAKTEK Pemrograman Berorientasi Objek\Minggu 10\SuitElemen\target\reports\apidocs\module-search-index.js = 1733133165505
+C:\Users\rizal\OneDrive\Documents\Kuliah\Semester 3\PRAKTEK Pemrograman Berorientasi Objek\Minggu 10\SuitElemen\target\reports\apidocs\overview-tree.html = 1733133165486
+C:\Users\rizal\OneDrive\Documents\Kuliah\Semester 3\PRAKTEK Pemrograman Berorientasi Objek\Minggu 10\SuitElemen\target\reports\apidocs\package-search-index.js = 1733133165507
+C:\Users\rizal\OneDrive\Documents\Kuliah\Semester 3\PRAKTEK Pemrograman Berorientasi Objek\Minggu 10\SuitElemen\target\reports\apidocs\search.html = 1733133165531
+C:\Users\rizal\OneDrive\Documents\Kuliah\Semester 3\PRAKTEK Pemrograman Berorientasi Objek\Minggu 10\SuitElemen\target\reports\apidocs\serialized-form.html = 1733133165427
+C:\Users\rizal\OneDrive\Documents\Kuliah\Semester 3\PRAKTEK Pemrograman Berorientasi Objek\Minggu 10\SuitElemen\target\reports\apidocs\tag-search-index.js = 1733133165512
+C:\Users\rizal\OneDrive\Documents\Kuliah\Semester 3\PRAKTEK Pemrograman Berorientasi Objek\Minggu 10\SuitElemen\target\reports\apidocs\type-search-index.js = 1733133165509
